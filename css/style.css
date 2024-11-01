@@ -1,0 +1,33 @@
+#ds_speechki_options input,
+#ds_speechki_options select {
+    display: block;
+    margin-bottom: 15px;
+}
+
+#get_api_key {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.speechki_hide {
+    display: none;
+}
+
+#ds_speechki_save_options {
+    max-width: 500px;
+}
+
+#select_post_types {
+    padding: 10px;
+}
+
+#select_post_types,
+#player_location {
+    width: 100%;
+    max-width: inherit;
+}
+
+.under-player-location {
+    font-size: 10px;
+    margin-top: 0;
+}
